@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--List App-->
+        <!--Shopping List-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ListApp" customModuleProvider="target" sceneMemberID="viewController">
@@ -35,7 +35,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" title="List App" id="DQj-2t-ABb">
+                    <navigationItem key="navigationItem" title="Shopping List" id="DQj-2t-ABb">
                         <barButtonItem key="leftBarButtonItem" systemItem="trash" id="4cW-s2-bAn">
                             <color key="tintColor" systemColor="systemRedColor"/>
                             <connections>
